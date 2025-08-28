@@ -4,3 +4,4 @@ streamlit
 pathlib
 ast
 plotly
+plotly.express
