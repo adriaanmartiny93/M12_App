@@ -1,7 +1,4 @@
-pandas
-numpy
-streamlit
-pathlib
-ast
-plotly
-plotly.express
+numpy==2.3.2
+pandas==2.3.2
+plotly==5.17.0
+streamlit==1.49.0
